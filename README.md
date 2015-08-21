@@ -13,8 +13,10 @@ Passwords for decryption are removed from text, if present. This report cover on
 | Country | Count | Granted  |
 |---------|------:|---------:|
 | Japan   | 1     | 0 (0%)   |
-
+| Poland  | 1     | 0 (0%)   |
 
 ## Requests for content removal
 
-There was none such requests.
+| Country | Count | Granted  |
+|---------|------:|---------:|
+| Poland  | 1     | 0 (0%)   |
